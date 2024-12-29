@@ -27,7 +27,7 @@ RUN apt-get update && \
 COPY . .
 
 # Expose the application port
-EXPOSE 8080
+# EXPOSE 8080
 
 # Start the server
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8080", "--proxy-headers", "--log-level=debug"]
