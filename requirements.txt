@@ -2,3 +2,4 @@ loguru
 solders
 fastapi
 base58
+uvicorn
