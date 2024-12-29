@@ -3,3 +3,4 @@ solders
 fastapi
 base58
 uvicorn
+requests
