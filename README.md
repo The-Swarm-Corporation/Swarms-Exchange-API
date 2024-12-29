@@ -27,8 +27,8 @@ This project provides a production-grade API to create and manage tokens on the 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/The-Swarm-Corporation/Swarms-Exchange-API
+   cd Swarms-Exchange-API
    ```
 
 2. **Install Dependencies**:
